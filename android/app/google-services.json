@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "7362473364",
+    "project_id": "fasum-app-d9728",
+    "storage_bucket": "fasum-app-d9728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7362473364:android:968eda1038c88aaa6c7381",
+        "android_client_info": {
+          "package_name": "com.example.fasum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7362473364-tvo0pg2ss29g7tsgcdkd2lboum04bnl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3gxj9GUZG8QEk_dLcTwIfrAWZFG0pjt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7362473364-tvo0pg2ss29g7tsgcdkd2lboum04bnl1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7362473364-1ra2bls5qkeolcbe5d1onahecdg4a0n8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fasum"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7362473364:android:c685a7faf3f6b8e16c7381",
+        "android_client_info": {
+          "package_name": "com.example.fasum_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7362473364-tvo0pg2ss29g7tsgcdkd2lboum04bnl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3gxj9GUZG8QEk_dLcTwIfrAWZFG0pjt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7362473364-tvo0pg2ss29g7tsgcdkd2lboum04bnl1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7362473364-1ra2bls5qkeolcbe5d1onahecdg4a0n8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fasum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
